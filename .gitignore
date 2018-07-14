@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+s800.py
+sim.py
+sms.py
+sms2.py
