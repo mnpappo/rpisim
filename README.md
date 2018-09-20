@@ -6,4 +6,6 @@ This is a simple library written in python for Raspberry Pi Sim/GSM/GPRS Module 
 
 Soon I am Going to write a instruction on it. 
 
+[ISSUE #1](https://github.com/mnpappo/rpisim/issues/1) : Solved [Configuring The GPIO Serial Port in Raspberry Pi3](https://spellfoundry.com/2016/05/29/configuring-gpio-serial-port-raspbian-jessie-including-pi-3/)
+
 I forked the base from this module [IteadSIM800](https://github.com/lamondlab/IteadSIM800)

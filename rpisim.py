@@ -15,7 +15,6 @@ GSM_RESET = 12
 BALANCE_USSD = "*124#"
 SMS_NUMBER = "01821081270"
 MESSAGE_TEXT = "Sample message text"
-ssh - T
 
 class ATResp(IntEnum):
     ErrorNoResponse = -1
